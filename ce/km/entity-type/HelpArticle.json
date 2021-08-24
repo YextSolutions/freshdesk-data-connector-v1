@@ -1,0 +1,26 @@
+{
+  "$id": "ce_HelpArticle",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "Freshdesk Help Articles",
+  "displayName": "Help Article",
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "Help Articles"
+}

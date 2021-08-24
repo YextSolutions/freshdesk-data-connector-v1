@@ -1,0 +1,75 @@
+{
+  "$id": "ce_solutionArticle",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_SolutionArticle",
+  "displayName": "Solution Article",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_agentID"
+        },
+        {
+          "id": "c_categoryID"
+        },
+        {
+          "id": "yext/description"
+        },
+        {
+          "id": "c_folderID"
+        },
+        {
+          "id": "c_views"
+        },
+        {
+          "id": "c_status1"
+        },
+        {
+          "id": "c_tags"
+        },
+        {
+          "id": "c_thumbsDown"
+        },
+        {
+          "id": "c_thumbsUp"
+        },
+        {
+          "id": "c_dateCreated"
+        },
+        {
+          "id": "c_dateUpdated"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        }
+      ]
+    }
+  ]
+}

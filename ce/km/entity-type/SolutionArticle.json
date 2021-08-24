@@ -1,0 +1,70 @@
+{
+  "$id": "ce_SolutionArticle",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "Freshdesk solution article, also called knowledge base post",
+  "displayName": "Solution Article",
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/description",
+      "required": false
+    },
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "c_agentID",
+      "required": false
+    },
+    {
+      "id": "c_categoryID",
+      "required": false
+    },
+    {
+      "id": "c_dateCreated",
+      "required": false
+    },
+    {
+      "id": "c_dateUpdated",
+      "required": false
+    },
+    {
+      "id": "c_folderID",
+      "required": false
+    },
+    {
+      "id": "c_status1",
+      "required": false
+    },
+    {
+      "id": "c_tags",
+      "required": false
+    },
+    {
+      "id": "c_thumbsDown",
+      "required": false
+    },
+    {
+      "id": "c_thumbsUp",
+      "required": false
+    },
+    {
+      "id": "c_views",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "Solution Articles"
+}
