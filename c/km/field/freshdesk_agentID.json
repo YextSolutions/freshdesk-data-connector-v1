@@ -1,5 +1,5 @@
 {
-  "$id": "c_agentID",
+  "$id": "freshdesk_agentID",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Agent ID",
   "group": "NONE",
