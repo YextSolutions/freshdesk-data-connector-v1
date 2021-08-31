@@ -1,11 +1,11 @@
 {
-  "$id": "c_folderID",
+  "$id": "freshdesk_dateUpdated",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Folder ID",
+  "displayName": "Date Updated",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
-    "decimalType": {}
+    "dateType": {}
   },
-  "typeId": "yext/decimal"
+  "typeId": "yext/date"
 }

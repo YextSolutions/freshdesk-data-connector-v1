@@ -1,11 +1,11 @@
 {
-  "$id": "c_thumbsDown",
+  "$id": "freshdesk_dateCreated",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Thumbs Down",
+  "displayName": "Date Created",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
-    "decimalType": {}
+    "dateType": {}
   },
-  "typeId": "yext/decimal"
+  "typeId": "yext/date"
 }

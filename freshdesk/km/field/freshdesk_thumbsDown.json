@@ -1,11 +1,11 @@
 {
-  "$id": "c_dateUpdated",
+  "$id": "freshdesk_thumbsDown",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Date Updated",
+  "displayName": "Thumbs Down",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
-    "dateType": {}
+    "decimalType": {}
   },
-  "typeId": "yext/date"
+  "typeId": "yext/decimal"
 }
