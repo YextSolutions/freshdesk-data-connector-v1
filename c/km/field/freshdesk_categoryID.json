@@ -1,5 +1,5 @@
 {
-  "$id": "c_categoryID",
+  "$id": "freshdesk_categoryID",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Category ID",
   "group": "NONE",
