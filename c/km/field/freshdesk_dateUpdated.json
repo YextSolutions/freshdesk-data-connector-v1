@@ -1,5 +1,5 @@
 {
-  "$id": "c_dateUpdated",
+  "$id": "freshdesk_dateUpdated",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Date Updated",
   "group": "NONE",
