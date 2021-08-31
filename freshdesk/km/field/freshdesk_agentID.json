@@ -1,11 +1,11 @@
 {
-  "$id": "freshdesk_dateUpdated",
+  "$id": "freshdesk_agentID",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Date Updated",
+  "displayName": "Agent ID",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
-    "dateType": {}
+    "decimalType": {}
   },
-  "typeId": "yext/date"
+  "typeId": "yext/decimal"
 }
